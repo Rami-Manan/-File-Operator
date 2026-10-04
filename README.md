@@ -387,13 +387,13 @@ Every bit of feedback helps make the project better!
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Manan Rami**
 
 🐍 Python Learner | 💻 Programmer | 📚 Student
 
 **Skills practiced:** Python • OOP • File Handling • Exception Handling • Git • GitHub
 
-- 🐙 GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+- 🐙 GitHub: [Your GitHub Profile](https://github.com/)
 
 ---
 
