@@ -101,7 +101,7 @@ Personal-Journal-Manager/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Rami-Manan/-File-Operator.git
 ```
 
 Replace `YOUR_REPOSITORY_URL` with your actual GitHub repository URL.
