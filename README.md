@@ -405,3 +405,5 @@ Every bit of feedback helps make the project better!
 **Made with ❤️ and Python 🐍**
 
 </div>
+
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/rami-manan/-file-operator?utm_source=readme&utm_medium=badge)
