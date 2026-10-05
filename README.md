@@ -370,6 +370,7 @@ This project can be distributed under the MIT License if you choose to license i
 If you use the MIT License, add a `LICENSE` file containing the appropriate MIT license text. Until then, the project license is unspecified.
 
 ---
+[![Architecture diagram of rami-manan/-file-operator](https://gitdiagram.com/rami-manan/-file-operator/diagram.png)](https://gitdiagram.com/rami-manan/-file-operator?utm_source=readme&utm_medium=picture)
 
 ## ⭐ Support
 
